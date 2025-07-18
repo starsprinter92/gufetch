@@ -11,6 +11,8 @@ A fetch script written in bash
  figlet
 
 any nerd font
+
+the hostname command (inetutils)
  
  that's it :D
 
