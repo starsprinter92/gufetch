@@ -16,13 +16,13 @@ any nerd font
 
 # INSTALLATION 
 
-git clone https://github.com/starsprinter92/gfetch
+git clone https://github.com/starsprinter92/gufetch
 
-cd gfetch
+cd gufetch
 
 chmod +x gfetch
 
-sudo mv gfetch /bin
+sudo mv gufetch /bin
 
 # Why gufetch as the name?
 I first tried having it gfetch, but there is another fetch script called gfetch which is a git fetchscript
